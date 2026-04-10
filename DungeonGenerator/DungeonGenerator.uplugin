@@ -1,0 +1,24 @@
+{
+    "FileVersion": 3,
+    "Version": 1,
+    "VersionName": "1.0.0",
+    "FriendlyName": "Dungeon Generator",
+    "Description": "A procedural dungeon generation plugin for Unreal Engine 5. Generates randomized dungeons with room type classification, corridor connections, and Blueprint-friendly query interfaces.",
+    "Category": "Gameplay",
+    "CreatedBy": "PinguWaddle",
+    "CreatedByURL": "",
+    "DocsURL": "",
+    "MarketplaceURL": "",
+    "SupportURL": "",
+    "CanContainContent": true,
+    "IsBetaVersion": false,
+    "IsExperimentalVersion": false,
+    "Installed": false,
+    "Modules": [
+        {
+            "Name": "DungeonGenerator",
+            "Type": "Runtime",
+            "LoadingPhase": "Default"
+        }
+    ]
+}
